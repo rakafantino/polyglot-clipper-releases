@@ -1,0 +1,11 @@
+{
+  "version": "whisper-cli-v1.9.1",
+  "note": "Built from ggml-org/whisper.cpp upstream (Metal, static). No SOCL dependency.",
+  "binaries": {
+    "darwin-arm64": {
+      "url": "https://github.com/rakafantino/polyglot-clipper-releases/releases/download/whisper-cli-v1.9.1/whisper-cli-mac-arm64",
+      "sha256": "32413cbfc815c02be7f48b0567df1c64ce6467060d10f1e04c37c51b21ef373d",
+      "exe": "whisper-cli"
+    }
+  }
+}
